@@ -86,7 +86,7 @@ Para ejecutar los notebooks localmente o en entornos de nube como Google Colab:
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone [https://github.com/TuUsuario/TFG-Volatilidad-GARCH-vs-LSTM.git](https://github.com/TuUsuario/TFG-Volatilidad-GARCH-vs-LSTM.git)
+   git clone https://github.com/raulml2/tfg-garch-vs-lstm.git
    cd tfg-garch-vs-lstm
    ```
 2. **Instalar dependencias:**
